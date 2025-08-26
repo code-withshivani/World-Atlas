@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "ghaziabad,U.P."
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "55685565"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contact@gmail.com"
+  }
+]

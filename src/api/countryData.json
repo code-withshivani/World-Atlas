@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "India",
+    "capital": "New Delhi",
+    "population": "1.4 billion",
+    "fact": "India is the world’s largest democracy."
+  },
+  {
+    "id": 2,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": "125 million",
+    "fact": "Japan has more than 6,800 islands."
+  },
+  {
+    "id": 3,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": "214 million",
+    "fact": "Brazil is home to the Amazon Rainforest."
+  },
+  {
+    "id": 4,
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": "26 million",
+    "fact": "Australia is the only country that is also a continent."
+  },
+  {
+    "id": 5,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": "39 million",
+    "fact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 6,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": "111 million",
+    "fact": "Egypt is home to the Great Pyramid of Giza."
+  },
+  {
+    "id": 7,
+    "name": "France",
+    "capital": "Paris",
+    "population": "65 million",
+    "fact": "France is the most visited country in the world."
+  },
+  {
+    "id": 8,
+    "name": "South Africa",
+    "capital": "Pretoria, Bloemfontein, Cape Town",
+    "population": "61 million",
+    "fact": "South Africa has three capital cities."
+  },
+  {
+    "id": 9,
+    "name": "Russia",
+    "capital": "Moscow",
+    "population": "144 million",
+    "fact": "Russia spans across 11 time zones."
+  },
+  {
+    "id": 10,
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "population": "128 million",
+    "fact": "Mexico introduced chocolate, chili, and corn to the world."
+  }
+]
