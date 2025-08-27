@@ -53,7 +53,7 @@ return country.region === filter;
       />
        <ul className="grid grid-four-cols">{
          
-       filtercountries.map((curCountry ,index ) => {
+       filterCountries.map((curCountry ,index ) => {
             return <CountryCard country = {curCountry} key={index}/> ;
 
          })}
