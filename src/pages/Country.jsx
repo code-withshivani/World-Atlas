@@ -3,7 +3,7 @@ import  {getCountryData}  from "../api/postApi";
 
 import { CountryCard } from "../components/Layout/CountryCard"; 
 import { SearchFilter } from "../components/UI/SearchFilter";
-
+import {all} from "axios";
  export const Country = () => {
    
 const[isPending, startTransition] = useTransition();
@@ -53,7 +53,7 @@ return country.region === filter;
       />
        <ul className="grid grid-four-cols">{
          
-        countries.map((curCountry ,index ) => {
+       filtercountries.map((curCountry ,index ) => {
             return <CountryCard country = {curCountry} key={index}/> ;
 
          })}
