@@ -1,5 +1,5 @@
  import { FaArrowRight } from "react-icons/fa";
-
+import {NavLink} from "react-router-dom";
 export const HeroSection = () => {
 
   return(
@@ -12,8 +12,10 @@ export const HeroSection = () => {
         <p className="paragraph">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum natus obcaecati consectetur ipsam aperiam laborum.
         </p>
+       <NavLink to="/country">
         <button className="btn btn-darken btn-inline bg-white-box">Start Exploring <FaArrowRight /></button>
-      </div>
+        </NavLink>
+       </div>
       <div className="hero-image">
 
         <img src="/world.png" alt="world beauty
